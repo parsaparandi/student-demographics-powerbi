@@ -23,4 +23,12 @@ This project addresses two core analytical questions:
 | Page | Description |
 |---|---|
 | Student Demographics Overview | Age, gender, mother tongue, and active status breakdowns |
-| Student Commute Analysis | Distanc
+| Student Commute Analysis | Distance bands, commute map, and furthest student tracking |
+
+## Tools & Skills
+
+Power BI · DAX · Power Query · Data Modeling · Data Visualization
+
+## Notes
+
+Data used in this report is fully synthetic and was created solely for demonstration purposes.
