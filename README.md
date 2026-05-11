@@ -2,13 +2,21 @@
 
 A multi-page interactive Power BI report built for a Montreal school board to analyze student demographics and commute patterns across schools.
 
-![Report Preview](preview.png)
-
 ## Overview
 
 This project addresses two core analytical questions:
 - **Who are the students?** — demographic breakdown by age, gender, mother tongue, and active status
 - **Where do they come from?** — real-world commute distances from student residences to schools
+
+## Preview
+
+### Student Demographics Overview
+![Demographics — Default View](demographics-default.png)
+![Demographics — Filtered View](demographics-filtered.png)
+
+### Student Commute Analysis
+![Commute — Default View](commute-default.png)
+![Commute — Filtered View](commute-filtered.png)
 
 ## Technical Highlights
 
